@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Attach screenshot]]>
+    </line>
+    <line>
+      <![CDATA[All pass screen shots is attached]]>
+    </line>
+    <line>
+      <![CDATA[HTML reports are generated. Please check Reports folder]]>
+    </line>
+    <line>
+      <![CDATA[Attach screenshot]]>
+    </line>
+    <line>
+      <![CDATA[All pass screen shots is attached]]>
+    </line>
+    <line>
+      <![CDATA[HTML reports are generated. Please check Reports folder]]>
+    </line>
+    <line>
+      <![CDATA[Attach screenshot]]>
+    </line>
+    <line>
+      <![CDATA[All pass screen shots is attached]]>
+    </line>
+    <line>
+      <![CDATA[HTML reports are generated. Please check Reports folder]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27710" started-at="2020-01-24T02:39:11Z" finished-at="2020-01-24T02:39:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27710" started-at="2020-01-24T02:39:11Z" finished-at="2020-01-24T02:39:39Z">
+      <class name="com.TestRunner.Executionwindow">
+        <test-method status="PASS" signature="reportgeneration()[pri:0, instance:com.TestRunner.Executionwindow@53b32d7]" name="reportgeneration" is-config="true" duration-ms="257" started-at="2020-01-24T02:39:11Z" finished-at="2020-01-24T02:39:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportgeneration -->
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:com.TestRunner.Executionwindow@53b32d7]" name="LaunchBrowser" duration-ms="15648" started-at="2020-01-24T02:39:11Z" finished-at="2020-01-24T02:39:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="screenshotattachreport(org.testng.ITestResult)[pri:0, instance:com.TestRunner.Executionwindow@53b32d7]" name="screenshotattachreport" is-config="true" duration-ms="989" started-at="2020-01-24T02:39:27Z" finished-at="2020-01-24T02:39:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LaunchBrowser status=SUCCESS method=Executionwindow.LaunchBrowser()[pri:0, instance:com.TestRunner.Executionwindow@53b32d7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Attach screenshot]]>
+            </line>
+            <line>
+              <![CDATA[All pass screen shots is attached]]>
+            </line>
+            <line>
+              <![CDATA[HTML reports are generated. Please check Reports folder]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- screenshotattachreport -->
+        <test-method status="PASS" signature="UserLogin()[pri:1, instance:com.TestRunner.Executionwindow@53b32d7]" name="UserLogin" duration-ms="4293" started-at="2020-01-24T02:39:28Z" finished-at="2020-01-24T02:39:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLogin -->
+        <test-method status="PASS" signature="screenshotattachreport(org.testng.ITestResult)[pri:0, instance:com.TestRunner.Executionwindow@53b32d7]" name="screenshotattachreport" is-config="true" duration-ms="515" started-at="2020-01-24T02:39:32Z" finished-at="2020-01-24T02:39:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserLogin status=SUCCESS method=Executionwindow.UserLogin()[pri:1, instance:com.TestRunner.Executionwindow@53b32d7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Attach screenshot]]>
+            </line>
+            <line>
+              <![CDATA[All pass screen shots is attached]]>
+            </line>
+            <line>
+              <![CDATA[HTML reports are generated. Please check Reports folder]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- screenshotattachreport -->
+        <test-method status="PASS" signature="applyLeave()[pri:2, instance:com.TestRunner.Executionwindow@53b32d7]" name="applyLeave" duration-ms="5747" started-at="2020-01-24T02:39:32Z" finished-at="2020-01-24T02:39:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyLeave -->
+        <test-method status="PASS" signature="screenshotattachreport(org.testng.ITestResult)[pri:0, instance:com.TestRunner.Executionwindow@53b32d7]" name="screenshotattachreport" is-config="true" duration-ms="492" started-at="2020-01-24T02:39:38Z" finished-at="2020-01-24T02:39:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=applyLeave status=SUCCESS method=Executionwindow.applyLeave()[pri:2, instance:com.TestRunner.Executionwindow@53b32d7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Attach screenshot]]>
+            </line>
+            <line>
+              <![CDATA[All pass screen shots is attached]]>
+            </line>
+            <line>
+              <![CDATA[HTML reports are generated. Please check Reports folder]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- screenshotattachreport -->
+      </class> <!-- com.TestRunner.Executionwindow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
